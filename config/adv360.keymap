@@ -43,7 +43,7 @@
    &kp TAB             &kp Q         &kp W             &kp E      &kp R   &kp T                   &kp MINUS  &kp EQUAL          &kp Y   &kp U      &kp I          &kp O              &kp P           &kp BSLH
    &kp ESC             &kp A         &kp S             &kp D      &kp F   &kp G            &kp LEFT_BRACKET      &none          &none                             &none              &none  &kp RIGHT_BRACKET              &kp H   &kp J      &kp K    &kp L  &kp SEMI    &kp SQT
  &kp LSHFT             &kp Z         &kp X             &kp C      &kp V   &kp B                       &none      &none       &kp HOME   &none      &none    &kp PAGE_UP              &none              &none              &kp N   &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
-     &mo 2  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_COMMAND  &kp SPACE   &none                       &mo 1    &kp END  &kp PAGE_DOWN   &mo 1  &kp ENTER  &kp BACKSPACE  &kp RIGHT_COMMAND      &kp RIGHT_ALT  &kp RIGHT_CONTROL   &mo 2
+     &kp LC(LA(LEFT_COMMAND))  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_COMMAND  &kp SPACE   &none                       &mo 1    &kp END  &kp PAGE_DOWN   &mo 1  &kp ENTER  &kp BACKSPACE  &kp RIGHT_COMMAND      &kp RIGHT_ALT  &kp RIGHT_CONTROL   &kp RC(RA(RIGHT_COMMAND))
             >;
         };
 
